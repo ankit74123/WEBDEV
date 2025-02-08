@@ -1,0 +1,28 @@
+
+
+
+Session
+
+Cookies
+
+HTTP Headsets
+    Client
+    Browser Info
+    Date Time
+    Cookie to Store
+
+Request Response Model
+
+Type of Request
+HTTP2
+
+User Agent
+   TCP
+   FTP
+   IP
+   URL
+   DNS
+
+  Header
+  Payload
+  cache

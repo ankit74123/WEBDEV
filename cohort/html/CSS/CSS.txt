@@ -1,0 +1,14 @@
+19.01.2024
+
+Starting CSS
+
+CSS
+Inline , Internal , External
+
+
+Tag , ID , Class
+bentogrids
+
+https://app.eraser.io/workspace/iZgXlFx51QbosAoxqrUQ
+
+https://flexboxfroggy.com/

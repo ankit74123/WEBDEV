@@ -1,0 +1,40 @@
+
+
+Day 2 
+Thanks to Hitesh Choudhary and Piyush Garg Sir
+Zoom behind scenes
+
+Network 
+
+OSI Model -- 7 Layers
+
+1. Physical Layer -- Bits 0 and 1
+2. Datalink layer -- Frames
+3. Network Layer -- Routing IP addressing
+4. Transport -- TCP/UDP
+5. Session Layer
+6. Presentation Layers
+7. Application Layers
+
+TCP and UDP
+
+TCP -- Trans Control Protocol
+       Relibale , Ordered , 3 way handshake
+
+Client -- Server
+
+DNS -- Root Server (13)
+dig chaicode.com
+
+What was pipelining and overhead
+
+https://www.iana.org/
+https://www.iana.org/domains/root/servers
+https://pieces.app/blog/open-source-llms?utm_source=socials&utm_medium=referral&utm_campaign=thread
+
+
+21:45 
+
+Web Development
+Browser -- OS
+HTML 

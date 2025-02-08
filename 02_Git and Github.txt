@@ -1,0 +1,46 @@
+02_Git and GitHub                                                                                                                                                            #05.01.2024
+=================
+
+
+What is Git
+50-60 loc
+files , folders 
+Backup
+Tracking    
+
+System 
+      Local Code - History Maintain
+
+VCS - Version Control System
+
+git
+Subversion
+Mercurial  --  2010
+Perforce
+
+
+git init
+git add .
+git commit -m "message"
+git log
+git status 
+git cat
+git cat-file
+git cat-file-t
+git log --oneline
+git reset 
+git reset --hard
+git remote add origin
+git push
+
+How hash created
+what is hash is in git
+
+maya concept -- spotify 
+mostly advanced yet acceptable
+
+
+Hash node 
+https://hashnode.com/
+https://app.eraser.io/workspace/06oTmTiO17QjeuTDkp7O
+https://docs.chaicode.com/git-and-github/
