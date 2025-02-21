@@ -1,0 +1,36 @@
+03_Objects-Array-Classes
+========================
+08.02.2025(Saturday)
+02:28:58
+
+  Objects , Array , Classes in JavaScript
+  Code with Jay
+
+  https://buffer.com
+  portfolio website
+
+  90% projects
+  2-3 Resumes
+
+  Objects -- Data Structures in JS (38:43)
+  1. Primitive       --> Arrays [] , Objects {}
+  2. Non-Primitive
+  
+  Objects -- Real world , Code 
+             Code is used to solve real world problems
+
+  Variable :- Memory (01:00)
+            Two types of Memory -- Stack Memory 
+                                   Heap Memory -- {} 
+
+  Garbage Collector -- 
+  Memory Leak -- 
+
+  Teleportation 
+
+  Books , Modern Time Management
+  
+  https://chaicode.com/coding-hero
+
+==============
+              #Completed
